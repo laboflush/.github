@@ -25,8 +25,8 @@ into your team to move a specific piece forward.
 
 ### 🌐 Web
 Fast, accessible, and conversion-focused web applications. Marketing sites,
-dashboards, and complex SPAs built with **React**, **Next.js**, and
-**TypeScript** — designed to load quickly and scale gracefully.
+dashboards, and complex SPAs built with **React.js**, **TypeScript**,
+**Next.js**, and **Vue** — designed to load quickly and scale gracefully.
 
 ### 📱 Mobile
 Native-quality iOS and Android apps from a single codebase using
@@ -66,7 +66,7 @@ boring (in the best way).
 
 ## Tech we love
 
-[![Our Stack](https://skillicons.dev/icons?i=ts,react,nextjs,expo,python,fastapi,django,flask,postgres,mongodb,elasticsearch,redis,docker,aws,nginx,linux&perline=8)](https://skillicons.dev)
+[![Our Stack](https://skillicons.dev/icons?i=ts,react,nextjs,vue,expo,python,fastapi,django,flask,postgres,mongodb,elasticsearch,redis,docker,aws,nginx,linux&perline=8)](https://skillicons.dev)
 
 </div>
 
