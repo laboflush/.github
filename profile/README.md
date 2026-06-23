@@ -34,14 +34,22 @@ Native-quality iOS and Android apps from a single codebase using
 notifications, and store-ready release pipelines.
 
 ### ⚙️ Backend
-Robust APIs and services that hold up under real traffic. Clean REST and
-GraphQL interfaces, well-modeled databases, and thoughtful architecture with
-**Node.js**, **Python**, and **PostgreSQL**.
+Scalable, data-driven systems built to hold up under real traffic. We design
+microservices and RESTful APIs with **Python**, **FastAPI**, **Django**, and
+**Flask** — backed by **PostgreSQL**, **MongoDB**, and **MySQL**. Our specialty
+is the hard stuff: secure **OAuth 2.0** integrations across platforms (Google,
+Meta, TikTok, Shopify), event-driven and distributed task processing with
+**Celery**, **RabbitMQ**, **SQS**, and **EventBridge**, and advanced search
+infrastructure on **Elasticsearch** and **OpenSearch**.
 
 ### ☁️ DevOps
-Infrastructure that lets you ship with confidence. Containerized deployments,
-infrastructure as code, observability, and automated **CI/CD** pipelines on
-**AWS**, **GCP**, and **Docker** — so releases are boring (in the best way).
+Infrastructure that lets you ship with confidence. We run scalable container
+orchestration on **AWS ECS** with auto-scaling and high availability, build
+end-to-end **CI/CD** pipelines with **ECR** and **CodePipeline**, and ship
+**zero-downtime blue/green deployments**. Add event-driven services on
+**Lambda**, **S3**, and **CloudWatch**, **Docker + Nginx + SSL** deployments on
+cloud VMs, and centralized logging for full observability — so releases are
+boring (in the best way).
 
 ---
 
@@ -61,9 +69,11 @@ infrastructure as code, observability, and automated **CI/CD** pipelines on
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
