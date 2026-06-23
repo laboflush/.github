@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lab of Lush
+<img src="./assets/lab-of-lush-logo.png" alt="Lab of Lush" width="300" />
 
 ### Software Solutions & Consultancy
 
@@ -9,10 +9,7 @@
 From the first wireframe to production at scale, we partner with founders and
 companies to turn ideas into reliable, beautiful, and maintainable products.
 
-[![Web](https://img.shields.io/badge/Web-Apps-6E56CF?style=for-the-badge)](#)
-[![Mobile](https://img.shields.io/badge/Mobile-iOS%20%26%20Android-16A8AD?style=for-the-badge)](#)
-[![Backend](https://img.shields.io/badge/Backend-APIs%20%26%20Data-2D8CFF?style=for-the-badge)](#)
-[![DevOps](https://img.shields.io/badge/DevOps-Cloud%20%26%20CI%2FCD-F76707?style=for-the-badge)](#)
+**Web** &nbsp;•&nbsp; **Mobile** &nbsp;•&nbsp; **Backend** &nbsp;•&nbsp; **DevOps**
 
 </div>
 
